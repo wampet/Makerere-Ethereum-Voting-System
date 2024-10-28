@@ -2,7 +2,7 @@
 
 A decentralized voting system for Makerere University based on Ethereum blockchain technology.
 
-> This is a final year project that has been worked on by Andrew Ssempangi and Wamanga Peter under the supervison
+> This is a final year project that has been worked on by LubwamaEmmanuel and Wamanga Peter under the supervison
 of Dr. Ronald Kizito and Ms. Carol Ovon.
 
 ## System Workflow
